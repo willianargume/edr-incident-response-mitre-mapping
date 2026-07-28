@@ -15,6 +15,7 @@ de infraestructura, cliente o empresa.
 | 03 | [Movimiento lateral](./03-lateral-movement-attempt/README.md) | Lateral Movement | TXXXX |
 | 04 | [Acceso no autorizado](./04-unauthorized-access-attempt/README.md) | Credential Access | TXXXX |
 | 05 | [Transferencia anómala de datos en la nube](./05-anomalous-cloud-data-transfer/README.md) | Collection | T1530 |
+| 06 | [Instalación no autorizada / escalamiento de privilegios](./06-unauthorized-software-installation-attempt/README.md) | Privilege Escalation | T1053.005 |
 ## Metodología
 Cada caso sigue esta estructura: patrón de ataque → indicadores en CrowdStrike →
 técnica MITRE ATT&CK → acción de respuesta → lección aprendida.
