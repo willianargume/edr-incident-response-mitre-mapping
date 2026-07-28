@@ -14,7 +14,7 @@ de infraestructura, cliente o empresa.
 | 02 | [PowerShell sospechoso](./02-suspicious-powershell-activity/README.md) | Execution / Defense Evasion | TXXXX |
 | 03 | [Movimiento lateral](./03-lateral-movement-attempt/README.md) | Lateral Movement | TXXXX |
 | 04 | [Acceso no autorizado](./04-unauthorized-access-attempt/README.md) | Credential Access | TXXXX |
-
+| 05 | [Transferencia anómala de datos en la nube](./05-anomalous-cloud-data-transfer/README.md) | Collection | T1530 |
 ## Metodología
 Cada caso sigue esta estructura: patrón de ataque → indicadores en CrowdStrike →
 técnica MITRE ATT&CK → acción de respuesta → lección aprendida.
